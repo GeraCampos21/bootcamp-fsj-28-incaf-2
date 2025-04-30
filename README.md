@@ -14,7 +14,7 @@ git diff: Muestra las diferencias entre el directorio de trabajo, el área de st
 git rm <archivo(s)>: Elimina archivos del directorio de trabajo y los prepara para ser eliminados del repositorio en el próximo commit.
 git mv <archivo_antiguo> <archivo_nuevo>: Renombra un archivo y prepara el cambio para el próximo commit.
 Para trabajar con ramas:
-
+probando para el token
 git branch: Lista las ramas locales.
 git branch <nombre_de_rama>: Crea una nueva rama local.
 git checkout <nombre_de_rama>: Cambia a la rama especificada.
